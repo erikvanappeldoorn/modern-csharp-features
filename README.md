@@ -22,4 +22,5 @@ Happy Coding !
 |          7.| Throw expressions               | [throw-expressions](./throw-expressions.ipynb)                             | 
 |          8.| Nullable reference types        | [nullable-reference-types](./nullable-reference-types.ipynb)               |
 |          8.| Tuple patterns                  | [tuple-patterns](./tuple-patterns.ipynb)                                   |  
-|          8.| Switch expressions              | [switch-expressions](./switch-expressions.ipynb)                           | 
+|          8.| Switch expressions              | [switch-expressions](./switch-expressions.ipynb)                           |
+|          8.| Positional patterns             | [positional-patterns](./positional-patterns.ipynb)                         | 
