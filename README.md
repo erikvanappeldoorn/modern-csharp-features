@@ -19,3 +19,4 @@ Happy Coding !
 |          7.| Local functions                 | [local-functions](./local-functions.ipynb)                                 |
 |          7.| Literal improvements            | [literal-improvements](./literal-improvements.ipynb)                       |
 |          7.| More expression bodied members  | [more-expression-bodied-members](./more-expression-bodied-members.ipynb)   |
+|          7.| Throw expressions               | [throw-expressions](./throw-expressions.ipynb)                             | 
