@@ -10,9 +10,10 @@ Happy Coding !
 
 ## Content
 
-| C# version | Feature name                   | Polyglot Notebook file                                                |
-| ---------- | ------------------------------ | --------------------------------------------------------------------- |
-|          7.|  Out Variables                 | [out-variables](./out-variables.ipynb)                                | 
-|          7.|  Is-expressions with patterns  | [is-expressions-with-patterns](./is-expressions-with-patterns.ipynb) |
+| C# version | Feature name                    | Polyglot Notebook file                                                     |
+| ---------- | ------------------------------- | -------------------------------------------------------------------------- |
+|          7.| Out Variables                   | [out-variables](./out-variables.ipynb)                                     | 
+|          7.| Is-expressions with patterns    | [is-expressions-with-patterns](./is-expressions-with-patterns.ipynb)       |
+|          7.| Switch statements with patterns | [switch-statements-with=patterns](./switch-statements-with-patterns.ipynb) | 
 
 
