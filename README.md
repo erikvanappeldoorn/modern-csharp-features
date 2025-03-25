@@ -15,5 +15,6 @@ Happy Coding !
 |          7.| Out Variables                   | [out-variables](./out-variables.ipynb)                                     | 
 |          7.| Is-expressions with patterns    | [is-expressions-with-patterns](./is-expressions-with-patterns.ipynb)       |
 |          7.| Switch statements with patterns | [switch-statements-with=patterns](./switch-statements-with-patterns.ipynb) | 
+|          7.| Tuples                          | [tuples](./tuples.ipynb)                                                   | 
 
 
