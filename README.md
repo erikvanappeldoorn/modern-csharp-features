@@ -17,5 +17,4 @@ Happy Coding !
 |          7.| Switch statements with patterns | [switch-statements-with=patterns](./switch-statements-with-patterns.ipynb) | 
 |          7.| Tuples                          | [tuples](./tuples.ipynb)                                                   | 
 |          7.| Local functions                 | [local-functions](./local-functions.ipynb)                                 |
-
-
+|          7.| Literal improvements            | [literal-improvements](./literal-improvements.ipynb)                       |
