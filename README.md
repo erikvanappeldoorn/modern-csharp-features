@@ -20,4 +20,5 @@ Happy Coding !
 |          7.| Literal improvements            | [literal-improvements](./literal-improvements.ipynb)                       |
 |          7.| More expression bodied members  | [more-expression-bodied-members](./more-expression-bodied-members.ipynb)   |
 |          7.| Throw expressions               | [throw-expressions](./throw-expressions.ipynb)                             | 
-|          8.| Nullable reference types        | [nullable-reference-types](./nullable-reference-types.ipynb)               | 
+|          8.| Nullable reference types        | [nullable-reference-types](./nullable-reference-types.ipynb)               |
+|          8.| Tuple patterns                  | [tuple-patterns](./tuple-patterns.ipynb)                                   |  
