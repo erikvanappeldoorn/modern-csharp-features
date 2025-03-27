@@ -26,3 +26,4 @@ Happy Coding !
 |          8.| Positional patterns             | [positional-patterns](./positional-patterns.ipynb)                         | 
 |          8.| Asynchronous streams            | [asynchronous-streams](./asynchronous-streams.ipynb)                       |
 |          8.| Ranges and indices              | [ranges-and-indices](./ranges-and-indices.ipynb)                           |
+|          8.| Using declaration               | [using-declaration](./using-declaration.ipynb)                             | 
