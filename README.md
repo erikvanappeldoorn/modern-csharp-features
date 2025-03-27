@@ -41,4 +41,6 @@ Happy Coding !
 |          9.| Logical patterns                | [logical-patterns](./logical-patterns.ipynb)                               |
 |          9.| Target-typed new expressions    | [target-typed-new-expressions](./target-typed-new-expressions.ipynb)       |
 |            |                                 |                                                                            |
-|         10.| Global using directives         | [global-using-directives](./global-using-directives.ipynb)                 | 
+|         10.| Global using directives         | [global-using-directives](./global-using-directives.ipynb)                 |
+|         10.| File-scoped namespaces          | [file=scoped-namespaces](./file-scoped-namespaces.ipynb)                   |
+ 
