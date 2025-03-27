@@ -28,3 +28,4 @@ Happy Coding !
 |          8.| Ranges and indices              | [ranges-and-indices](./ranges-and-indices.ipynb)                           |
 |          8.| Using declaration               | [using-declaration](./using-declaration.ipynb)                             |
 |          8.| Static local functions          | [static-local-functions](./static-local-functions.ipynb)                   | 
+|          8.| Dispoable ref structs           | [disposable ref structs](./disposable-ref-structs.ipynb)                   |
