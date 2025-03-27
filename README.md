@@ -44,4 +44,4 @@ Happy Coding !
 |         10.| Global using directives         | [global-using-directives](./global-using-directives.ipynb)                 |
 |         10.| File-scoped namespaces          | [file=scoped-namespaces](./file-scoped-namespaces.ipynb)                   |
 |         10.| Natural types for lambdas       | [natural-types-for-lambdas](./natural-types-for-lambdas.ipynb)             |
- 
+|         10.| Return types for lambdas        | [return-types-for-lambdas](./return-types-for-lambdas.ipynb)               | 
