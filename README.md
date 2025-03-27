@@ -36,4 +36,5 @@ Happy Coding !
 |          9.| With-expressions                | [with-expressions](./with-expressions.ipynb)                               |
 |          9.| Positional records              | [positional-records](./positional-records.ipynb)                           | 
 |          9.| Top-level programs              | [top-level-programs](./top-level-programs.ipynb)                           |
-|          9.| Simple type patterns            | [simple-type-patterns](./simple-type-patterns.ipynb)                       |  
+|          9.| Simple type patterns            | [simple-type-patterns](./simple-type-patterns.ipynb)                       |
+|          9.| Relational patterns             | [relational-patterns](./relational-patterns.ipynb)                         |  
