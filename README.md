@@ -20,6 +20,7 @@ Happy Coding !
 |          7.| Literal improvements            | [literal-improvements](./literal-improvements.ipynb)                       |
 |          7.| More expression bodied members  | [more-expression-bodied-members](./more-expression-bodied-members.ipynb)   |
 |          7.| Throw expressions               | [throw-expressions](./throw-expressions.ipynb)                             | 
+|            |                                 |                                                                            |
 |          8.| Nullable reference types        | [nullable-reference-types](./nullable-reference-types.ipynb)               |
 |          8.| Tuple patterns                  | [tuple-patterns](./tuple-patterns.ipynb)                                   |  
 |          8.| Switch expressions              | [switch-expressions](./switch-expressions.ipynb)                           |
@@ -29,6 +30,7 @@ Happy Coding !
 |          8.| Using declaration               | [using-declaration](./using-declaration.ipynb)                             |
 |          8.| Static local functions          | [static-local-functions](./static-local-functions.ipynb)                   | 
 |          8.| Dispoable ref structs           | [disposable-ref-structs](./disposable-ref-structs.ipynb)                   |
+|            |                                 |                                                                            | 
 |          9.| Init-only properties            | [init-only-properties](./init-only-properties.ipynb)                       |
 |          9.| Records                         | [records](./records.ipynb)                                                 | 
 |          9.| With-expressions                | [with-expressions](./with-expressions.ipynb)                               |
