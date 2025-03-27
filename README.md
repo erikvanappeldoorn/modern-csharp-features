@@ -1,3 +1,4 @@
+
 # Modern C# Features
 
 ## Introduction
@@ -48,3 +49,4 @@ Happy Coding !
 |         10.| Attributes on lambdas             | [attributes-on-lambdas](./attributes-on-lambdas.ipynb)                         |
 |         10.| Parameterless struct constructors | [parameterless-struct-constructors](./parameterless-struct-constructors.ipynb) |
 |         10.| Record structs                    | [record-structs](./record-structs.ipynb)                                       |
+|         10.| Extended property patterns        | [extended-property-patterns](./extended-property-patterns.ipynb)               |
