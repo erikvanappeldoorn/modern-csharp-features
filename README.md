@@ -31,3 +31,4 @@ Happy Coding !
 |          8.| Dispoable ref structs           | [disposable-ref-structs](./disposable-ref-structs.ipynb)                   |
 |          9.| Init-only properties            | [init-only-properties](./init-only-properties.ipynb)                       |
 |          9.| Records                         | [records](./records.ipynb)                                                 | 
+|          9.| With-expressions                | [with-expressions](./with-expressions.ipynb)                               |
