@@ -24,3 +24,4 @@ Happy Coding !
 |          8.| Tuple patterns                  | [tuple-patterns](./tuple-patterns.ipynb)                                   |  
 |          8.| Switch expressions              | [switch-expressions](./switch-expressions.ipynb)                           |
 |          8.| Positional patterns             | [positional-patterns](./positional-patterns.ipynb)                         | 
+|          8.| Asynchronous streams            | [asynchronous-streams](./asynchronous-streams.ipynb)                       |
