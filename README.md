@@ -47,3 +47,4 @@ Happy Coding !
 |         10.| Return types for lambdas          | [return-types-for-lambdas](./return-types-for-lambdas.ipynb)                   | 
 |         10.| Attributes on lambdas             | [attributes-on-lambdas](./attributes-on-lambdas.ipynb)                         |
 |         10.| Parameterless struct constructors | [parameterless-struct-constructors](./parameterless-struct-constructors.ipynb) |
+|         10.| Record structs                    | [record-structs](./record-structs.ipynb)                                       |
