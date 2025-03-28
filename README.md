@@ -52,3 +52,4 @@ Happy Coding !
 |         10.| Extended property patterns        | [extended-property-patterns](./extended-property-patterns.ipynb)               |
 |            |                                   |                                                                                |
 |         11.| UTF-8 string literals             | [utf-string-literals](./utf-8-string-literals.ipynb)                           | 
+|         11.| Raw string literals               | [raw-string-literals](./raw-string-literals.ipynb)                             |
