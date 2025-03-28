@@ -57,4 +57,5 @@ Happy Coding !
 |         11.| List patterns                     | [list=patterns](./list-patterns.ipynb)                                         |
 |         11.| Required members                  | [required-members](./required-members.ipynb)                                   |
 |            |                                   |                                                                                |
-|         12.| Collection expressions            | [collection-expressions](./collection-expressions.ipynb)                       | 
+|         12.| Collection expressions            | [collection-expressions](./collection-expressions.ipynb)                       |
+|         12.| Primary constructors              | [primary-constructors](./primary-constructors.ipynb)                           | 
