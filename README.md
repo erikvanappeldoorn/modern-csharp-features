@@ -53,3 +53,4 @@ Happy Coding !
 |            |                                   |                                                                                |
 |         11.| UTF-8 string literals             | [utf-string-literals](./utf-8-string-literals.ipynb)                           | 
 |         11.| Raw string literals               | [raw-string-literals](./raw-string-literals.ipynb)                             |
+|         11.| Static members in interfaces      | [static-members-in-interfaces](./static-members-in-interfaces.ipynb)           |
