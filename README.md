@@ -56,3 +56,5 @@ Happy Coding !
 |         11.| Static members in interfaces      | [static-members-in-interfaces](./static-members-in-interfaces.ipynb)           |
 |         11.| List patterns                     | [list=patterns](./list-patterns.ipynb)                                         |
 |         11.| Required members                  | [required-members](./required-members.ipynb)                                   |
+|            |                                   |                                                                                |
+|         12.| Collection expressions            | [collection-expressions](./collection-expressions.ipynb)                       | 
