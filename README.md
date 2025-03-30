@@ -3,9 +3,17 @@
 
 ## Introduction
 
-This repository contains examples of features added to the C# language since version C# 7. 
+New features are added to the C# language for every major release of .NET. Detailed information can in general be found in "What is new in C# x" Microsoft blogs and MS Learn when a new version arrives. 
+
+To get an overview of all Modern C# features I have gathered the most relevant features since version C# 7 and created a Polyglot Notebook for each feature with some key information and a code example in this repository    
 
 Examples are organized by file. Each new feature is demonstrated in it's own Polyglot Notebook with the filename indicating the name of the feature. In the content section of this readme file they are also organized by C# version. So C# version, Feature name, Name of the Polyglot Notebook with context about the feature and examples.
+
+To run and play with the examples I can recommend installing the Polyglot Notebooks extension for Visual Studio Code. For more information and install instructions check the [visual studio code marketplace](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
+
+I am planning to update this repository with every new C# release. 
+
+I love to get feedback, so please feel free to add comments, issues, send me more or better examples or contribute yourself by sending me Pull Requests.
 
 Happy Coding !
 
