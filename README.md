@@ -23,7 +23,7 @@ Happy Coding !
 | ---------- | --------------------------------- | --------------------------------------------------------------------------     |
 |          7.| Out Variables                     | [out-variables](./src/7/out-variables.ipynb)                                         | 
 |          7.| Is-expressions with patterns      | [is-expressions-with-patterns](./src/7/is-expressions-with-patterns.ipynb)           |
-|          7.| Switch statements with patterns   | [switch-statements-with=patterns](./src//7/switch-statements-with-patterns.ipynb)     | 
+|          7.| Switch statements with patterns   | [switch-statements-with=patterns](./src/7/switch-statements-with-patterns.ipynb)     | 
 |          7.| Tuples                            | [tuples](./src/7/tuples.ipynb)                                                       | 
 |          7.| Local functions                   | [local-functions](./src/7/local-functions.ipynb)                                     |
 |          7.| Literal improvements              | [literal-improvements](./src/7/literal-improvements.ipynb)                           |
@@ -65,7 +65,7 @@ Happy Coding !
 |         11.| List patterns                     | [list=patterns](./src/11/list-patterns.ipynb)                                         |
 |         11.| Required members                  | [required-members](./src/11/required-members.ipynb)                                   |
 |            |                                   |                                                                                |
-|         12.| Collection expressions            | [collection-expressions](./collection-expressions.ipynb)                       |
-|         12.| Primary constructors              | [primary-constructors](./primary-constructors.ipynb)                           | 
-|         12.| Alias any type                    | [alias-any-type](./alias-any-type.ipynb)                       |
-|         12.| Default lambda parameters         | [default-lambda-parameters](./default-lambda-parameters.ipynb)          |
+|         12.| Collection expressions            | [collection-expressions](./src/12/collection-expressions.ipynb)                       |
+|         12.| Primary constructors              | [primary-constructors](./src/12/primary-constructors.ipynb)                           | 
+|         12.| Alias any type                    | [alias-any-type](./src/12/alias-any-type.ipynb)                       |
+|         12.| Default lambda parameters         | [default-lambda-parameters](./src/12/default-lambda-parameters.ipynb)          |
