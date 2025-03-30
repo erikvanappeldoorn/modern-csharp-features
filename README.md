@@ -50,14 +50,14 @@ Happy Coding !
 |          9.| Logical patterns                  | [logical-patterns](./src/9/logical-patterns.ipynb)                                   |
 |          9.| Target-typed new expressions      | [target-typed-new-expressions](./src/9/target-typed-new-expressions.ipynb)           |
 |            |                                   |                                                                                |
-|         10.| Global using directives           | [global-using-directives](./global-using-directives.ipynb)                     |
-|         10.| File-scoped namespaces            | [file=scoped-namespaces](./file-scoped-namespaces.ipynb)                       |
-|         10.| Natural types for lambdas         | [natural-types-for-lambdas](./natural-types-for-lambdas.ipynb)                 |
-|         10.| Return types for lambdas          | [return-types-for-lambdas](./return-types-for-lambdas.ipynb)                   | 
-|         10.| Attributes on lambdas             | [attributes-on-lambdas](./attributes-on-lambdas.ipynb)                         |
-|         10.| Parameterless struct constructors | [parameterless-struct-constructors](./parameterless-struct-constructors.ipynb) |
-|         10.| Record structs                    | [record-structs](./record-structs.ipynb)                                       |
-|         10.| Extended property patterns        | [extended-property-patterns](./extended-property-patterns.ipynb)               |
+|         10.| Global using directives           | [global-using-directives](./src/10/global-using-directives.ipynb)                     |
+|         10.| File-scoped namespaces            | [file=scoped-namespaces](./src/10/file-scoped-namespaces.ipynb)                       |
+|         10.| Natural types for lambdas         | [natural-types-for-lambdas](./src/10/natural-types-for-lambdas.ipynb)                 |
+|         10.| Return types for lambdas          | [return-types-for-lambdas](./src/10/return-types-for-lambdas.ipynb)                   | 
+|         10.| Attributes on lambdas             | [attributes-on-lambdas](./src/10/attributes-on-lambdas.ipynb)                         |
+|         10.| Parameterless struct constructors | [parameterless-struct-constructors](./src/10/parameterless-struct-constructors.ipynb) |
+|         10.| Record structs                    | [record-structs](./src/10/record-structs.ipynb)                                       |
+|         10.| Extended property patterns        | [extended-property-patterns](./src/10/extended-property-patterns.ipynb)               |
 |            |                                   |                                                                                |
 |         11.| UTF-8 string literals             | [utf-string-literals](./utf-8-string-literals.ipynb)                           | 
 |         11.| Raw string literals               | [raw-string-literals](./raw-string-literals.ipynb)                             |
