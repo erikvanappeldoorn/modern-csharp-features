@@ -59,11 +59,11 @@ Happy Coding !
 |         10.| Record structs                    | [record-structs](./src/10/record-structs.ipynb)                                       |
 |         10.| Extended property patterns        | [extended-property-patterns](./src/10/extended-property-patterns.ipynb)               |
 |            |                                   |                                                                                |
-|         11.| UTF-8 string literals             | [utf-string-literals](./utf-8-string-literals.ipynb)                           | 
-|         11.| Raw string literals               | [raw-string-literals](./raw-string-literals.ipynb)                             |
-|         11.| Static members in interfaces      | [static-members-in-interfaces](./static-members-in-interfaces.ipynb)           |
-|         11.| List patterns                     | [list=patterns](./list-patterns.ipynb)                                         |
-|         11.| Required members                  | [required-members](./required-members.ipynb)                                   |
+|         11.| UTF-8 string literals             | [utf-string-literals](./src/11/utf-8-string-literals.ipynb)                           | 
+|         11.| Raw string literals               | [raw-string-literals](./src/11/raw-string-literals.ipynb)                             |
+|         11.| Static members in interfaces      | [static-members-in-interfaces](./src/11/static-members-in-interfaces.ipynb)           |
+|         11.| List patterns                     | [list=patterns](./src/11/list-patterns.ipynb)                                         |
+|         11.| Required members                  | [required-members](./src/11/required-members.ipynb)                                   |
 |            |                                   |                                                                                |
 |         12.| Collection expressions            | [collection-expressions](./collection-expressions.ipynb)                       |
 |         12.| Primary constructors              | [primary-constructors](./primary-constructors.ipynb)                           | 
