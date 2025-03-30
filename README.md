@@ -40,15 +40,15 @@ Happy Coding !
 |          8.| Static local functions            | [static-local-functions](./src/8/static-local-functions.ipynb)                       | 
 |          8.| Dispoable ref structs             | [disposable-ref-structs](./src/8/disposable-ref-structs.ipynb)                       |
 |            |                                   |                                                                                | 
-|          9.| Init-only properties              | [init-only-properties](./init-only-properties.ipynb)                           |
-|          9.| Records                           | [records](./records.ipynb)                                                     | 
-|          9.| With-expressions                  | [with-expressions](./with-expressions.ipynb)                                   |
-|          9.| Positional records                | [positional-records](./positional-records.ipynb)                               | 
-|          9.| Top-level programs                | [top-level-programs](./top-level-programs.ipynb)                               |
-|          9.| Simple type patterns              | [simple-type-patterns](./simple-type-patterns.ipynb)                           |
-|          9.| Relational patterns               | [relational-patterns](./relational-patterns.ipynb)                             |
-|          9.| Logical patterns                  | [logical-patterns](./logical-patterns.ipynb)                                   |
-|          9.| Target-typed new expressions      | [target-typed-new-expressions](./target-typed-new-expressions.ipynb)           |
+|          9.| Init-only properties              | [init-only-properties](./src/9/init-only-properties.ipynb)                           |
+|          9.| Records                           | [records](./src/9/records.ipynb)                                                     | 
+|          9.| With-expressions                  | [with-expressions](./src/9/with-expressions.ipynb)                                   |
+|          9.| Positional records                | [positional-records](./src/9/positional-records.ipynb)                               | 
+|          9.| Top-level programs                | [top-level-programs](./src/9/top-level-programs.ipynb)                               |
+|          9.| Simple type patterns              | [simple-type-patterns](./src/9/simple-type-patterns.ipynb)                           |
+|          9.| Relational patterns               | [relational-patterns](./src/9/relational-patterns.ipynb)                             |
+|          9.| Logical patterns                  | [logical-patterns](./src/9/logical-patterns.ipynb)                                   |
+|          9.| Target-typed new expressions      | [target-typed-new-expressions](./src/9/target-typed-new-expressions.ipynb)           |
 |            |                                   |                                                                                |
 |         10.| Global using directives           | [global-using-directives](./global-using-directives.ipynb)                     |
 |         10.| File-scoped namespaces            | [file=scoped-namespaces](./file-scoped-namespaces.ipynb)                       |
