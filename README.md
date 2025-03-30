@@ -30,15 +30,15 @@ Happy Coding !
 |          7.| More expression bodied members    | [more-expression-bodied-members](./src/7/more-expression-bodied-members.ipynb)       |
 |          7.| Throw expressions                 | [throw-expressions](./src/7/throw-expressions.ipynb)                                 | 
 |            |                                   |                                                                                |
-|          8.| Nullable reference types          | [nullable-reference-types](./nullable-reference-types.ipynb)                   |
-|          8.| Tuple patterns                    | [tuple-patterns](./tuple-patterns.ipynb)                                       |  
-|          8.| Switch expressions                | [switch-expressions](./switch-expressions.ipynb)                               |
-|          8.| Positional patterns               | [positional-patterns](./positional-patterns.ipynb)                             | 
-|          8.| Asynchronous streams              | [asynchronous-streams](./asynchronous-streams.ipynb)                           |
-|          8.| Ranges and indices                | [ranges-and-indices](./ranges-and-indices.ipynb)                               |
-|          8.| Using declaration                 | [using-declaration](./using-declaration.ipynb)                                 |
-|          8.| Static local functions            | [static-local-functions](./static-local-functions.ipynb)                       | 
-|          8.| Dispoable ref structs             | [disposable-ref-structs](./disposable-ref-structs.ipynb)                       |
+|          8.| Nullable reference types          | [nullable-reference-types](./src/8/nullable-reference-types.ipynb)                   |
+|          8.| Tuple patterns                    | [tuple-patterns](./src/8/tuple-patterns.ipynb)                                       |  
+|          8.| Switch expressions                | [switch-expressions](./src/8/switch-expressions.ipynb)                               |
+|          8.| Positional patterns               | [positional-patterns](./src/8/positional-patterns.ipynb)                             | 
+|          8.| Asynchronous streams              | [asynchronous-streams](./src/8/asynchronous-streams.ipynb)                           |
+|          8.| Ranges and indices                | [ranges-and-indices](./src/8/ranges-and-indices.ipynb)                               |
+|          8.| Using declaration                 | [using-declaration](./src/8/using-declaration.ipynb)                                 |
+|          8.| Static local functions            | [static-local-functions](./src/8/static-local-functions.ipynb)                       | 
+|          8.| Dispoable ref structs             | [disposable-ref-structs](./src/8/disposable-ref-structs.ipynb)                       |
 |            |                                   |                                                                                | 
 |          9.| Init-only properties              | [init-only-properties](./init-only-properties.ipynb)                           |
 |          9.| Records                           | [records](./records.ipynb)                                                     | 
