@@ -60,3 +60,4 @@ Happy Coding !
 |         12.| Collection expressions            | [collection-expressions](./collection-expressions.ipynb)                       |
 |         12.| Primary constructors              | [primary-constructors](./primary-constructors.ipynb)                           | 
 |         12.| Alias any type                    | [alias-any-type](./alias-any-type.ipynb)                       |
+|         12.| Default lambda parameters         | [default-lambda-parameters](./default-lambda-parameters.ipynb)          |
