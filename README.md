@@ -21,14 +21,14 @@ Happy Coding !
 
 | C# version | Feature name                      | Polyglot Notebook file                                                         |
 | ---------- | --------------------------------- | --------------------------------------------------------------------------     |
-|          7.| Out Variables                     | [out-variables](./7/out-variables.ipynb)                                         | 
-|          7.| Is-expressions with patterns      | [is-expressions-with-patterns](./7/is-expressions-with-patterns.ipynb)           |
-|          7.| Switch statements with patterns   | [switch-statements-with=patterns](./switch-statements-with-patterns.ipynb)     | 
-|          7.| Tuples                            | [tuples](./7/tuples.ipynb)                                                       | 
-|          7.| Local functions                   | [local-functions](./7/local-functions.ipynb)                                     |
-|          7.| Literal improvements              | [literal-improvements](./7/literal-improvements.ipynb)                           |
-|          7.| More expression bodied members    | [more-expression-bodied-members](./7/more-expression-bodied-members.ipynb)       |
-|          7.| Throw expressions                 | [throw-expressions](./7/throw-expressions.ipynb)                                 | 
+|          7.| Out Variables                     | [out-variables](./src/7/out-variables.ipynb)                                         | 
+|          7.| Is-expressions with patterns      | [is-expressions-with-patterns](./src/7/is-expressions-with-patterns.ipynb)           |
+|          7.| Switch statements with patterns   | [switch-statements-with=patterns](./src//7/switch-statements-with-patterns.ipynb)     | 
+|          7.| Tuples                            | [tuples](./src/7/tuples.ipynb)                                                       | 
+|          7.| Local functions                   | [local-functions](./src/7/local-functions.ipynb)                                     |
+|          7.| Literal improvements              | [literal-improvements](./src/7/literal-improvements.ipynb)                           |
+|          7.| More expression bodied members    | [more-expression-bodied-members](./src/7/more-expression-bodied-members.ipynb)       |
+|          7.| Throw expressions                 | [throw-expressions](./src/7/throw-expressions.ipynb)                                 | 
 |            |                                   |                                                                                |
 |          8.| Nullable reference types          | [nullable-reference-types](./nullable-reference-types.ipynb)                   |
 |          8.| Tuple patterns                    | [tuple-patterns](./tuple-patterns.ipynb)                                       |  
