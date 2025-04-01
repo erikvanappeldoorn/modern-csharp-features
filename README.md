@@ -70,3 +70,4 @@ Happy Coding !
 |         12.| Alias any type                    | [alias-any-type](./src/12/alias-any-type.ipynb)                       |
 |         12.| Default lambda parameters         | [default-lambda-parameters](./src/12/default-lambda-parameters.ipynb)          |
 |         13.| Params collections                | [params-collections](./src/13/params-collections.ipynb)                 |
+|         13.| New lock object                   | [new-lock-object](./src/13/new-lock-object.ipynb)                            |
