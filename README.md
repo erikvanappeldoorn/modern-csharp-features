@@ -69,3 +69,4 @@ Happy Coding !
 |         12.| Primary constructors              | [primary-constructors](./src/12/primary-constructors.ipynb)                           | 
 |         12.| Alias any type                    | [alias-any-type](./src/12/alias-any-type.ipynb)                       |
 |         12.| Default lambda parameters         | [default-lambda-parameters](./src/12/default-lambda-parameters.ipynb)          |
+|         13.| Params collections                | [params-collections](./src/13/params-collections.ipynb)                 |
