@@ -71,3 +71,4 @@ Happy Coding !
 |         12.| Default lambda parameters         | [default-lambda-parameters](./src/12/default-lambda-parameters.ipynb)          |
 |         13.| Params collections                | [params-collections](./src/13/params-collections.ipynb)                 |
 |         13.| New lock object                   | [new-lock-object](./src/13/new-lock-object.ipynb)                            |
+|         13.| Implicit index access             | [implicit-index-access](./src/13/implicit-index-access.ipynb)                |
